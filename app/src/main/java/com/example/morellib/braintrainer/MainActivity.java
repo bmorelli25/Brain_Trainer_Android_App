@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-    //runs when we select an answer
+    //runs when we select an answer. changes score.
     public void answerClicked(View view){
         //uses the tag of the view to determine which view was clicked
         clickedButtonTag =Integer.parseInt(view.getTag().toString());
