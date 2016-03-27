@@ -15,3 +15,5 @@ updating textviews, tags, math expressions, and a java countdown timer.
 XML Code:
 Code utilizes a relative layout with a linear layout and grid layout built in. Inside each layout are numerous TextViews
 and a single button. 
+
+Please email me if you have any questions!
